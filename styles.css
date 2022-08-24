@@ -93,7 +93,7 @@ img#imagen2{
 }
 
 h2{
-    width: 90px;
+    width: 100px;
     font-size: 16px;
     font-weight: 900;
 }
@@ -106,7 +106,7 @@ a{
     font-weight: 700;
     font-size: 15px;
     color: var(--Bright-blue);
-    margin-left: 80px;
+    margin-left: 70px;
     padding-top: 10px;
 }
 
